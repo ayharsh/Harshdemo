@@ -1,3 +1,4 @@
 # Harshdemo
-This is my first git repostory
-author - Harsh Singh
+This is my first git Repostory.
+<br>
+Author - Harsh Singh
